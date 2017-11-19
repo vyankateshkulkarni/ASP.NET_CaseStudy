@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\Microsoft.ApplicationBlocks.Data.dll
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.dll
+c:\users\admin\documents\visual studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll.config
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll.config
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.pdb
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.dll
+E:\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.pdb
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll.config
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\HrsCaseStudy_1.pdb
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.csprojResolveAssemblyReference.cache
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.csproj.CoreCompileInputs.cache
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\HrsCaseStudy_1\HrsCaseStudy_1\obj\Debug\HrsCaseStudy_1.pdb

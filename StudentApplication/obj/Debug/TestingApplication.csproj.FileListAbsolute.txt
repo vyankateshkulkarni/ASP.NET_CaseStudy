@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\bin\TestingApplication.dll
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\bin\TestingApplication.pdb
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.dll
+c:\users\admin\documents\visual studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.pdb
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\bin\TestingApplication.dll.config
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\bin\TestingApplication.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\bin\TestingApplication.pdb
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.csprojResolveAssemblyReference.cache
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.csproj.CoreCompileInputs.cache
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.dll
+E:\storage\Backup Documents\Visual Studio 2012\Projects\TestingApplication\TestingApplication\obj\Debug\TestingApplication.pdb
